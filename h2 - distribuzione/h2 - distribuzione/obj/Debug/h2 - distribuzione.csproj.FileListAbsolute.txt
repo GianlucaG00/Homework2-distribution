@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\bin\Debug\h2 - distribuzione.exe.config
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\bin\Debug\h2 - distribuzione.exe
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\bin\Debug\h2 - distribuzione.pdb
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2 - distribuzione.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2 - distribuzione.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2___distribuzione.Form1.resources
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2___distribuzione.Properties.Resources.resources
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2 - distribuzione.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2 - distribuzione.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2 - distribuzione.exe
+\\Mac\Home\Desktop\h2 - distribuzione\h2 - distribuzione\obj\Debug\h2 - distribuzione.pdb
